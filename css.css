@@ -1,0 +1,23 @@
+.coral-back-fantasy-text {
+    background-color: coral;
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+#green-monospace-text {
+    color: darkgreen;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+
+input:invalid {border-color: red;}
+input:valid {border-color: green;}
+input {
+    border: 5px solid;
+}
+
+.float-left-model {
+    float: left;
+    margin: 6px;
+}
